@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there! I'm Amirul 
+
 <!--
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/ridhwanrazaliwork/ridhwanrazaliwork/master/src/Mario-gif.gif"><img src="https://raw.githubusercontent.com/ridhwanrazaliwork/ridhwanrazaliwork/master/src/Mario-gif.gif" width="35" style="max-width: 5%;"></a>
 
